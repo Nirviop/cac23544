@@ -97,6 +97,9 @@ public class Orador {
 		this.fechaAlta = fechaAlta;
 	}
 	
+	public void setId(long id) {
+		this.id = id;
+	}
 	///ALT+shit+s
 	
 }
