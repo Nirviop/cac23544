@@ -9,7 +9,7 @@ public class AdministradorDeConexiones {
 	//AdminitradordeConexiones.metodo()
 	public static Connection getConnection() {
 		String username = "root";
-		String password = "*********";
+		String password = "*******";
 		String port = "3306";
 		String host = "localhost";
 		String dbName = "integrador_cac";
